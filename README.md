@@ -3,7 +3,7 @@
 An example of setting up a React app with a mock db.
 
 ## Steps to Create
- * npx create-react-app name-of-app
+ * <b>npx create-react-app name-of-app</b>
  * remove everything in src folder
 
 
