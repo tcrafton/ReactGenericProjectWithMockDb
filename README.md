@@ -47,7 +47,7 @@ An example of setting up a React app with a mock db.
   server.use(function (req, res, next) {
     next();
     // setTimeout(next, 2000);
-    });
+  });
   ```
   
 * For additional information, check out Cory House's Pluralsight course [Building Applications with React and Redux](https://www.pluralsight.com/courses/react-redux-react-router-es6), a fantastic course with a MUCH better explanation of this and additional processes for creating React applications.
