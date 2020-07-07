@@ -37,4 +37,8 @@ An example of setting up a React app with a mock db.
 * use Hooks <b>useState</b> and <b>useEffect</b> to call book api for getting books
 
 
+## Run the project
+* <b>npm start</b>  (this will start the client, the api server and create the mock data)
 
+## Notes
+*  Mock data is refreshed each time <b>npm start</b> is ran
