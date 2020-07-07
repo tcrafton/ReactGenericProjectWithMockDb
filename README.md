@@ -10,7 +10,7 @@ An example of setting up a React app with a mock db.
  * add <b>tools</b> folder
  * replace <b>mockData.js</b> in <b>tools</b> folder with data for your project
  * setup the scripts section in <b>package.json</b> for starting the client and the api
-`  
+```  
   "scripts": {
     "start": "run-p start:dev start:api",
     "start:dev": "react-scripts start",
@@ -20,7 +20,7 @@ An example of setting up a React app with a mock db.
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-`
+```
 
 ### `npm run build` fails to minify
 
