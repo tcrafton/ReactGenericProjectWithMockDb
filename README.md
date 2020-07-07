@@ -45,9 +45,9 @@ An example of setting up a React app with a mock db.
 * To simulate a delay on network requests, in <b>apiServer.js</b> comment out next() and uncomment setTimeout(next, 2000)
   ```
   server.use(function (req, res, next) {
-  next();
-  // setTimeout(next, 2000);
-});
+    next();
+    // setTimeout(next, 2000);
+    });
   ```
   
 * For additional information, check out Cory House's Pluralsight course [Building Applications with React and Redux](https://www.pluralsight.com/courses/react-redux-react-router-es6), a fantastic course with a MUCH better explanation of this and additional processes for creating React applications.
