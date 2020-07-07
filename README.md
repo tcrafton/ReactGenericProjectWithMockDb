@@ -1,7 +1,6 @@
 ## React with a mock db
 
 An example of setting up a React app with a mock db.
-(Learned by going through Cory House's Pluralsight course [Building Applications with React and Redux](https://www.pluralsight.com/courses/react-redux-react-router-es6), fantastic course)
 
 ## Steps for setting up the app to run with mock data
  * <b>npx create-react-app name-of-app</b>
@@ -42,4 +41,5 @@ An example of setting up a React app with a mock db.
 * <b>npm start</b>  (this will start the client, the api server and create the mock data)
 
 ## Notes
-*  Mock data is refreshed each time <b>npm start</b> is ran
+* Mock data is refreshed each time <b>npm start</b> is ran
+* For additional information, check out Cory House's Pluralsight course [Building Applications with React and Redux](https://www.pluralsight.com/courses/react-redux-react-router-es6), fantastic course 
