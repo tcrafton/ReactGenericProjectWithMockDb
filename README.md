@@ -24,7 +24,7 @@ An example of setting up a React app with a mock db.
 ```
 
 ## Steps for api setup
- * add a folder to the <b>src</b> folder name <b>api</b>
+ * add a folder to the <b>src</b> folder named <b>api</b>
  * <b>apiConfig.js</b> for the base url
  * <b>apiUtil.js</b> for handling responses/errors in api calls
  * add file for making api calls (<b>bookApi.js</b> in this project)
